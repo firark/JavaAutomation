@@ -1,0 +1,4 @@
+13:31:23.901 [main] INFO  resources.base - CookiesBlock successfully hidden
+13:31:53.510 [main] INFO  resources.base - Navigation bar displayed.
+13:32:45.514 [TestNG-test=../FirstOne-2] INFO  resources.base - Navigation bar displayed.
+13:32:47.628 [TestNG-test=../FirstOne-1] INFO  resources.base - CookiesBlock successfully hidden
